@@ -1,0 +1,76 @@
+body
+{
+    width:100%;
+    max-width: 1200px;
+    margin: auto;
+    font: italic small-caps bold 12px/30px Georgia, serif;
+}
+.structural
+{
+    margin:10px;
+    padding:10x;
+}
+h1
+{
+    color:rebeccapurple;
+    font:sans-serif;
+    font-size: larger;
+}
+h2
+{
+    color:red;
+    font:10px, 'Courier New', Courier, monospace;
+    font-size: large;
+}
+main
+{
+    height: 70vh;
+}
+img
+{
+    border:3px solid balck;
+    width:90%;
+    height:80%
+}
+figure
+{
+    background-color: aqua;
+    width:45%;
+    height:60%;
+    margin: auto;
+    padding: 10px;
+}
+#image1
+{
+    float:left;
+}
+#image2
+{
+    float:right;
+}
+section
+{
+    clear: both;
+}
+figcaption
+{
+    font-weight: bold;
+    font-size: large;
+    color:rgb(31, 29, 166);
+    padding:5px;
+}
+a{
+    color:aquamarine;
+}
+a:hover
+{
+    color:brown;
+}
+li{
+    list-style-type: disc;
+    line-height: 50px;
+}
+header,footer
+{
+    background-color: rgb(143, 223, 31);
+}
